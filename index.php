@@ -13,7 +13,8 @@
     $testObj = new Test();
     $testObj -> getUsers();
     $testObj -> getOneUser("papa","keza");
-    $testObj -> setUser("Elvis","mugisha",22);
+    // $testObj -> setUser("Elvis","mugisha",22);
+    
 
 
     ?>
